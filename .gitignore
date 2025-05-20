@@ -1,0 +1,12 @@
+# Byte-compiled / cache
+__pycache__/
+*.py[cod]
+*.ipynb_checkpoints
+
+# Data and results
+data/*.csv
+results/*.png
+
+# Environments
+.env
+.venv/
