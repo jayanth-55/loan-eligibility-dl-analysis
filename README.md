@@ -45,7 +45,7 @@ loan-eligibility-dl-analysis/
 - [Y Jayanth Kumar] (GitHub: @jayanth-55)
 - [Y Srujan Kumar] (GitHub: @Yadamsrujankumar24)
 - [T Vasantha Rani] (GitHub: @username3)
-- [V Venkata Dinesh] (GitHub: @username4)
+- [V Venkata Dinesh] (GitHub: @vvdinesh69)
 
 ### Acknowledgements
 Special thanks to my mentor, Dr. B. Saritha Mam, for their constant support and guidance throughout this project.
