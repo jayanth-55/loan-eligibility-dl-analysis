@@ -50,9 +50,10 @@ loan-eligibility-dl-analysis/
 ### Acknowledgements
 Special thanks to my mentor, Dr. B. Saritha Mam, for their constant support and guidance throughout this project.
 
-## 📌 Current Status
-- 📄 Submitted to **IEEE INDISCON 2025** hosted by **NIT Rourkela**
-- 📥 Awaiting review
+## 📌 Publication Details
+- 📄 Published in **IEEE INDISCON 2025** (Hosted by NIT Rourkela)
+- 📚 Indexed in **IEEE Xplore Digital Library**
+- 🔗 Paper Link: https://ieeexplore.ieee.org/document/11378259
 
 ## 🧾 License
 This project is under the MIT License.
