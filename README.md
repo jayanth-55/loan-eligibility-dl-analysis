@@ -51,7 +51,7 @@ loan-eligibility-dl-analysis/
 Special thanks to my mentor, Dr. B. Saritha Mam, for their constant support and guidance throughout this project.
 
 ## 📌 Publication Details
-- 📄 Published in **IEEE INDISCON 2025** (Hosted by NIT Rourkela)
+- 📄 Published in **IEEE GITCON 2025** 
 - 📚 Indexed in **IEEE Xplore Digital Library**
 - 🔗 Paper Link: https://ieeexplore.ieee.org/document/11378259
 
